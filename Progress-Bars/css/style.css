@@ -1,0 +1,31 @@
+.Header>h2{
+    font-weight: 600;
+}
+.playIcon>ul>li{
+    list-style: none;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.item{
+    margin-top: 20px;
+}
+.progress-bar{
+    border-radius: 10px;
+    height: 8px;
+}
+.progress{
+    border-radius: 10px;
+    height: 8px;
+}
+.iconColor{
+    margin-top: 20px;
+    color:rgb(147, 235, 33);
+}
+.logTitle,.logIcon{
+    color:rgb(52, 170, 224);
+    font-size:20px;
+    cursor: pointer;    
+}
+.log{
+    text-align: center;
+}
